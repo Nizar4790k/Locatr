@@ -16,4 +16,15 @@
         android:layout_centerInParent="true"
         tools:srcCompat="@tools:sample/avatars[1]"
         />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_alignEnd="@+id/imageView"
+        android:layout_marginStart="52dp"
+        android:layout_marginEnd="50dp" />
+
 </RelativeLayout>
