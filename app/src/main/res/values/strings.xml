@@ -4,5 +4,6 @@
     <string name="dialog_mesagge">You need to allow access to both the permissions"</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
+    <string name="title_activity_maps">Map</string>
 
 </resources>
